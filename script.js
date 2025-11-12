@@ -42,3 +42,4 @@ let peliculasIniciales = [
     genero: "Romantico"
   }
 ];
+      alert("¡Hola! Este es un mensaje de alerta en JavaScript");
